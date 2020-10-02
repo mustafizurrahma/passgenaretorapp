@@ -26,7 +26,7 @@ for ( $i = 0; $i < $final_pass; $i++ ) {
     $str .= $all_key[0];
 
 }
-echo "<span class='strong'> Your Strong Password Is : => $str</span>";
+echo "<span class='strong'> This Is Strong Password Is : => $str</span>";
 ?>
 
 </body>
